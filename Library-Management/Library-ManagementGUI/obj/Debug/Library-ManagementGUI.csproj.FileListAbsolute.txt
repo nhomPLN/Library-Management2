@@ -1,0 +1,149 @@
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe.config
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.pdb
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csprojAssemblyReference.cache
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Form1.resources
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Properties.Resources.resources
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.GenerateResource.cache
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CopyComplete
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.exe
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.pdb
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\BUS.exe
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DTO.exe
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\BUS.pdb
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\BUS.exe.config
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DTO.pdb
+C:\Users\phucg\Documents\Library-Management\Library-ManagementGUI\bin\Debug\DTO.exe.config
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe.config
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\BUS.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\BUS.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DTO.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Form1.resources
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Properties.Resources.resources
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.GenerateResource.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CopyComplete
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.exe
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DAL.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.xml
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Test.resources
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmChiTietPhieuMuon.resources
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmThemSach.resources
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe.config
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\BUS.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DTO.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DAL.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\BUS.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DTO.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\bin\Debug\DAL.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csprojAssemblyReference.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Form1.resources
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmChiTietPhieuMuon.resources
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmThemSach.resources
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Properties.Resources.resources
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Test.resources
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.GenerateResource.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CopyComplete
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.exe
+C:\Users\nghia\Downloads\Compressed\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Form1.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmChiTietPhieuMuon.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmThemSach.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmTraSach.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Login.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Properties.Resources.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Test.resources
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.GenerateResource.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.exe
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe.config
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\BUS.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Charts.Design.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\BUS.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CopyComplete
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe.config
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.exe
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\Library-ManagementGUI.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\BUS.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Charts.Design.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\BUS.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\bin\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Form1.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmChiTietPhieuMuon.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmThemSach.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.frmTraSach.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Login.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Properties.Resources.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library_ManagementGUI.Test.resources
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.GenerateResource.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.csproj.CopyComplete
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.exe
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\Library-ManagementGUI\obj\Debug\Library-ManagementGUI.pdb

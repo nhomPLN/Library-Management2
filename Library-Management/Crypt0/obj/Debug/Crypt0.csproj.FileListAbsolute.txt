@@ -1,0 +1,6 @@
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Crypt0\bin\Debug\Crypt0.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Crypt0\bin\Debug\Crypt0.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Crypt0\obj\Debug\Crypt0.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Crypt0\obj\Debug\Crypt0.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Crypt0\obj\Debug\Crypt0.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\Crypt0\obj\Debug\Crypt0.pdb

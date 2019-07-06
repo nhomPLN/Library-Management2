@@ -1,0 +1,24 @@
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DTO\bin\Debug\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DTO\bin\Debug\DTO.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DTO\obj\Debug\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DTO\obj\Debug\DTO.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\DTO\bin\Debug\DTO.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\DTO\bin\Debug\DTO.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\DTO\obj\Debug\DTO.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\DTO\obj\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DTO\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DTO\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DTO\obj\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DTO\obj\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DTO\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DTO\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DTO\obj\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DTO\obj\Debug\DTO.pdb

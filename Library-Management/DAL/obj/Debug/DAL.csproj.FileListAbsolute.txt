@@ -1,0 +1,43 @@
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Debug\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Debug\DAL.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Debug\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Debug\DAL.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Debug\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Debug\DTO.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\bin\Debug\DAL.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\bin\Debug\DAL.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\bin\Debug\DTO.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\bin\Debug\DTO.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\obj\Debug\DAL.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\DAL\obj\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\bin\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\bin\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\obj\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\DAL\obj\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\bin\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\bin\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\obj\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\DAL\obj\Debug\DAL.pdb

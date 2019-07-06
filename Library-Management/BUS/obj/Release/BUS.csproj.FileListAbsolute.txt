@@ -1,0 +1,13 @@
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\BUS.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\BUS.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\DevComponents.DotNetBar2.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\DAL.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\DTO.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Release\DevComponents.DotNetBar2.xml
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Release\BUS.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Release\BUS.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Release\BUS.pdb

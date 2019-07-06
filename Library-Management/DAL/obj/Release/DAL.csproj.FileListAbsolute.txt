@@ -1,0 +1,11 @@
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Release\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Release\DAL.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Release\DevComponents.DotNetBar2.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Release\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Release\DTO.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\bin\Release\DevComponents.DotNetBar2.xml
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Release\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\DAL\obj\Release\DAL.pdb

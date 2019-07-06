@@ -1,0 +1,51 @@
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\BUS.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\BUS.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\DAL.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\DTO.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\DAL.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\DTO.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Debug\BUS.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\obj\Debug\BUS.pdb
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Software Eginering\Library Dev_Pro\ProjectManagements\Library-Management_2\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\BUS.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\BUS.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\DAL.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\DTO.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\DAL.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\DTO.pdb
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\obj\Debug\BUS.dll
+C:\Users\nghia\Downloads\Compressed\Library-Management\BUS\obj\Debug\BUS.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\obj\Debug\BUS.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\obj\Debug\BUS.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\BUS.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\BUS.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\KI-Backtrack\Desktop\SE Project\Library-Management2\Library-Management\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\BUS.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\BUS.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\DAL.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\DTO.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\DAL.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\DTO.pdb
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\obj\Debug\BUS.dll
+C:\Users\KI-Backtrack\Desktop\Library-Management2\Library-Management\BUS\obj\Debug\BUS.pdb
